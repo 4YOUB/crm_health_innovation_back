@@ -1,0 +1,68 @@
+
+Sun Dec 25 2022 14:40:05 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'length')
+Sun Dec 25 2022 14:40:19 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'length')
+Sun Dec 25 2022 14:40:33 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'length')
+Sun Dec 25 2022 14:42:10 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'length')
+Sun Dec 25 2022 14:42:19 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'length')
+Sun Dec 25 2022 14:43:00 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'length')
+Tue Jan 03 2023 13:02:12 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: next is not a function
+Tue Jan 03 2023 13:02:30 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: next is not a function
+Tue Jan 03 2023 13:02:48 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: next is not a function
+Tue Jan 03 2023 13:03:18 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: next is not a function
+Tue Jan 03 2023 13:03:31 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: next is not a function
+Tue Jan 03 2023 13:03:46 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: next is not a function
+Tue Jan 03 2023 13:04:02 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: next is not a function
+Tue Jan 03 2023 13:04:14 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: next is not a function
+Tue Jan 03 2023 15:16:11 GMT+0100 (GMT+01:00) : -- MODULE_NOT_FOUND-------> Error: Cannot find module 'H:\DIGI4_Projects\crm-evolution-api\workers\worker.js'
+Tue Jan 03 2023 15:17:31 GMT+0100 (GMT+01:00) : -- undefined-------> ReferenceError: filteredVisites is not defined
+Tue Jan 03 2023 15:17:43 GMT+0100 (GMT+01:00) : -- MODULE_NOT_FOUND-------> Error: Cannot find module 'H:\DIGI4_Projects\crm-evolution-api\api\main\workers\worker.js'
+Tue Jan 03 2023 15:19:03 GMT+0100 (GMT+01:00) : -- undefined-------> ReferenceError: filteredVisites is not defined
+Tue Jan 03 2023 15:19:28 GMT+0100 (GMT+01:00) : -- undefined-------> ReferenceError: moment is not defined
+Wed Jan 04 2023 10:44:39 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'limit')
+Wed Jan 04 2023 10:45:38 GMT+0100 (GMT+01:00) : -- undefined-------> ReferenceError: results is not defined
+Thu Jan 05 2023 13:43:38 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'nbr_jours_ouvrables')
+Thu Jan 05 2023 14:47:11 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 14:53:31 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 14:55:28 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 14:55:41 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 14:58:12 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 14:58:35 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 15:00:36 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 15:02:39 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 15:04:14 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 15:05:05 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 15:06:07 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 15:06:23 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Thu Jan 05 2023 15:08:03 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: moment(...).year(...).month is not a function
+Fri Jan 06 2023 22:39:08 GMT+0100 (GMT+01:00) : -- ERR_HTTP_HEADERS_SENT-------> Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Wed Jan 11 2023 13:32:17 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: result[(result.length - 1)].map is not a function
+Wed Jan 11 2023 13:33:05 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: result[(result.length - 1)].map is not a function
+Wed Jan 11 2023 13:33:21 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: result[(result.length - 1)].map is not a function
+Wed Jan 11 2023 13:33:46 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: result[(result.length - 1)].map is not a function
+Wed Jan 11 2023 13:33:48 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: result[(result.length - 1)].map is not a function
+Wed Jan 11 2023 13:35:02 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: result[(result.length - 1)].map is not a function
+Wed Jan 11 2023 13:36:22 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: result[(result.length - 1)].map is not a function
+Tue Jan 17 2023 21:48:19 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading '0')
+Tue Jan 17 2023 21:48:25 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading '0')
+Tue Jan 17 2023 21:49:10 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading '0')
+Tue Jan 17 2023 21:49:23 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading '0')
+Wed Jan 18 2023 19:56:06 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 19:56:27 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 20:11:15 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 20:11:15 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 20:39:11 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading '0')
+Wed Jan 18 2023 20:39:52 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading '0')
+Wed Jan 18 2023 20:40:17 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading '0')
+Wed Jan 18 2023 20:41:06 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading '0')
+Wed Jan 18 2023 20:42:09 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 20:42:38 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 20:42:43 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 20:43:35 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 20:43:55 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 20:44:01 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 20:44:11 GMT+0100 (GMT+01:00) : -- undefined-------> TypeError: Cannot read properties of undefined (reading 'notFree')
+Wed Jan 18 2023 20:44:22 GMT+0100 (GMT+01:00) : -- ERR_HTTP_HEADERS_SENT-------> Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Wed Jan 18 2023 20:44:58 GMT+0100 (GMT+01:00) : -- ERR_HTTP_HEADERS_SENT-------> Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Wed Jan 18 2023 21:00:44 GMT+0100 (GMT+01:00) : -- ERR_HTTP_HEADERS_SENT-------> Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Wed Jan 18 2023 21:01:08 GMT+0100 (GMT+01:00) : -- ERR_HTTP_HEADERS_SENT-------> Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+Wed Jan 18 2023 21:43:36 GMT+0100 (GMT+01:00) : -- ERR_HTTP_HEADERS_SENT-------> Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
